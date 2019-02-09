@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+hello world
+title: "this is my first Github course"
 ---
 Your text
-Use the left arrow to go back!
+Use the any key to go back!
